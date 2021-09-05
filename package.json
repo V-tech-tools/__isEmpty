@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/V-tech-tools/__isEmpty/issues"
   },
-  "homepage": "https://github.com/V-tech-tools/__isEmpty#readme"
+  "homepage": "https://github.com/V-tech-tools/__isEmpty#readme",
+  "dependencies": {
+    "v__console.utility": "https://github.com/V-tech-tools/__console.utility"
+  }
 }
