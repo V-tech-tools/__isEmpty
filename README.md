@@ -7,7 +7,7 @@ Add this repo git URL into dependencies in your projects package.json.
 
 	...
 	"dependencies": {
-		"v_is_empty":"https://github.com/V-tech-tools/__console.utility"  
+		"v_is_empty":"https://github.com/V-tech-tools/__isEmpty"  
 	}, 
 	...
 
