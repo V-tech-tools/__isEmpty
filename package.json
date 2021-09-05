@@ -2,9 +2,9 @@
   "name": "v_is_empty",
   "version": "1.0.0",
   "description": "Node Module for Checking If variable is empty, null or NaN.",
-  "main": "index.js",
+  "main": "v_is_empty.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
